@@ -4,7 +4,7 @@ A super simple example of using Flask to serve a Svelte app and use it as a back
 This example just queries the Flask server for a random number.
 
 ## Install the dependencies and run or build the frontend
-```
+```bash
 cd frontend 
 npm install
 npm run dev
